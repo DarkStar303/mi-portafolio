@@ -1,4 +1,4 @@
-console.log("bienvenido");
+//console.log("bienvenido");
 //alert("gracias por visitar mi pagina web");
 document.querySelector('h1').addEventListener('click',()=>{
 
